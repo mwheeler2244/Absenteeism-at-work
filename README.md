@@ -20,11 +20,15 @@ In the intial data preperation phase, we preformed the following tasks.
 
 ### Exploratory Data Analysis
 EDA involved exploring the sales data to answer key questions, such as:
-1. How does the distribution of absenteeism vary across different age groups?
-2. Is there a correlation between the number of children an employee has and their absenteeism rate?
-3. What are the common trends or patterns in absenteeism concerning health status and commute distance?
+1. What was the top overall reason for absenteeism?
+2. Is there a correlation between the number of Day of week/month and absenteeism rate?
+3. What are the common trends or patterns in absenteeism concerning health status and drinking alcohol?
 
 ### Results/Finding
 The analysis results are summarized as follows:
-
+1. Disease
+2. Monday reported the hightest absenteeism rate.
+3. Medically considered "Healthy" (according to BMI) and "Overweight" individuals averaged around the same absenteeism rate while "Obese"
+averaged 50% lower. Social vs non social drinker didnt appear to have a correlation
 ### Recommendations 
+Incentive a low abesenteeism program with bonuses and perks.
